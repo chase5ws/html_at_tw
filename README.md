@@ -7,3 +7,5 @@ vs code(環境參數: live server / chinese中文化 / )
 快速註記: ctrl + /
 
 快速字頭尾: (h1)+tab
+
+右上 -向右分割編輯器
