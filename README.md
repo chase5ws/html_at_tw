@@ -12,7 +12,7 @@ vs code(環境參數: live server / chinese中文化 / )
 
 假如是檔案位置在先前資料夾要用 ../ 來尋找
 
-<a href="../index.html">回到首頁</a>
+../index.html
 
 
 
