@@ -15,4 +15,30 @@ vs code(環境參數: live server / chinese中文化 / Material Icon Theme/)
 ../index.html
 
 
+安裝伺服器
+
+https://surge.sh/ 
+
+(https://nodejs.org/en/)
+
+先安裝(lts版 長期穩定版 ):
+
+找到 window內建的	Windows PowerShell(應用程式)(以系統管理員身分執行)
+
+>>Get-ExecutionPolicy (Restricted受限制 要改)>>Set-ExecutionPolicy Unrestricted(設置規格 不要限制我)>>Get-ExecutionPolicy (Unrestricted)
+
+看到win出現 錯誤ps1 就是指定沒設定到
+
+>>重開vs code >>檢視 >>終端機 >>npm i --g surge (安裝) >>surge -h (尋找) >>確認有CNAME檔 >>surge (部屬) >>確認路徑 刪除\sur
+
+更新方法
+
+終端機:surge	(公開)>>刪除 /
+
+更換網址:CNAME
+
+說明書 終端機:surge -h
+
+
+
 
