@@ -14,6 +14,7 @@ vs code(環境參數: live server / chinese中文化 / Material Icon Theme/)
 
 ../index.html
 
+自學網站: .w3schools
 
 安裝伺服器
 
@@ -39,6 +40,11 @@ https://surge.sh/
 
 說明書 終端機:surge -h
 
+#前端套件外掛網:https://cdnjs.com/
+
+Normalize.css 讓瀏覽器字體都一樣 
+
+Font Awesome 文字小圖片(不會失真/是文字/可以用color上顏色)
 
 
 
