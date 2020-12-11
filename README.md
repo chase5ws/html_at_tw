@@ -1,4 +1,4 @@
-vs code(環境參數: live server / chinese中文化 / Material Icon Theme/)
+vs code(環境參數: live server / chinese中文化 / Material Icon Theme / toda higthlight)
 
 指定集:emmet
 
