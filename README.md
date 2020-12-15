@@ -46,5 +46,5 @@ Normalize.css 讓瀏覽器字體都一樣
 
 Font Awesome 文字小圖片(不會失真/是文字/可以用color上顏色)
 
-
+src="https://picsum.photos/id/1040/800/400"
 
